@@ -1,1 +1,1 @@
-# Emotion-Recognition-from-Comments-on-Facebook-Artificial-Intelligence-
+Recognizes emotions from a text.
