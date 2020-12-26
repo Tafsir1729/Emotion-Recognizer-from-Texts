@@ -1,1 +1,1 @@
-Recognizes emotions from a text.
+An application which can recognize emotion/reaction from text
